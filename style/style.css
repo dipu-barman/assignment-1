@@ -1,0 +1,60 @@
+
+
+.work-sans-normal {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.header{
+    border-radius: 24px;
+
+background: rgb(198, 228, 214);
+width: 1280px;
+height: 560px;
+margin: 80px auto;
+display: flex;
+}
+.new{
+    padding-left: 50px;
+    align-content: center;
+    width: 600px;
+    height: 330px;
+    padding-top: 115px;
+}
+.savar{
+    padding-right: 50px;
+    padding-top: 80px;
+}
+.future{
+    color: rgba(14, 14, 14, 0.5);
+font-family: Fira Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: left;
+}
+.description{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 56px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: left;
+}
+.gen{
+    border-radius: 8px;
+
+background: rgb(0, 106, 80);
+color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+border: none;
+padding: 17px 34px 17px 34px;
+}
