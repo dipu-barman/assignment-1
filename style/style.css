@@ -47,7 +47,7 @@ text-align: left;
 .gen{
     border-radius: 8px;
 
-background: rgb(0, 106, 80);
+    background: rgb(0, 106, 80);
 color: rgb(255, 255, 255);
 font-family: Fira Sans;
 font-size: 18px;
@@ -57,4 +57,126 @@ letter-spacing: 0%;
 text-align: left;
 border: none;
 padding: 17px 34px 17px 34px;
+}
+.bg :hover{
+    background: rgb(0, 106, 80);
+
+}
+/* section1 */
+.father{
+    display: flex;
+    height: 325px;
+    padding-top: 30px;
+    gap: 20px;
+    justify-content: space-between;
+
+}
+.mother{
+    width: 1280px;
+    height: 470px;
+    margin: 80px auto;
+}
+.deatils{
+    height: 110px;
+}
+.men{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+}
+.digita{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+}
+.you{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 5px;
+letter-spacing: 0%;
+text-align: left;
+}
+.four{
+    box-sizing: border-box;
+border-radius: 16px;
+
+background: rgba(84, 144, 245, 0.2);
+height: 350px;
+width: 400px;
+padding: 40px;
+}
+.five{
+    box-sizing: border-box;
+border-radius: 16px;
+
+background: rgb(198, 228, 214);
+height: 350px;
+width: 400px;
+padding: 40px;
+}
+.six{
+    box-sizing: border-box;
+border-radius: 16px;
+
+background: rgb(247, 235, 207);
+height: 350px;
+width: 400px;
+padding: 40px;
+}
+.seven{
+    border-radius: 8px;
+
+background: rgb(84, 144, 245);
+color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+border: none;
+width: 120px;
+height: 40px;
+margin-top: 20px;
+
+}
+.eight{
+    border-radius: 8px;
+
+background: rgb(9, 161, 92);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+border: none;
+width: 120px;
+height: 40px;
+margin-top: 20px;
+}
+.nine{
+    border-radius: 8px;
+
+background: rgb(255, 194, 57);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+border: none;
+width: 120px;
+height: 40px;
+margin-top: 20px;
 }
