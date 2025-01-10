@@ -67,17 +67,21 @@ padding: 17px 34px 17px 34px;
     display: flex;
     height: 325px;
     padding-top: 30px;
+    
     gap: 20px;
     justify-content: space-between;
 
 }
 .mother{
-    width: 1280px;
+    width: 1100px;
     height: 490px;
     margin: 80px auto;
+   
 }
 .deatils{
     height: 110px;
+    
+
 }
 .men{
     color: rgb(14, 14, 14);
@@ -112,7 +116,7 @@ border-radius: 16px;
 
 background: rgba(84, 144, 245, 0.2);
 height: 350px;
-width: 400px;
+width: 330px;
 padding: 40px;
 }
 .five{
@@ -121,7 +125,7 @@ border-radius: 16px;
 
 background: rgb(198, 228, 214);
 height: 350px;
-width: 400px;
+width: 330px;
 padding: 40px;
 }
 .six{
@@ -130,7 +134,7 @@ border-radius: 16px;
 
 background: rgb(247, 235, 207);
 height: 350px;
-width: 400px;
+width: 330px;
 padding: 40px;
 }
 .seven{
@@ -147,7 +151,7 @@ text-align: center;
 border: none;
 width: 120px;
 height: 40px;
-margin-top: 20px;
+margin-top: 10px;
 
 }
 .eight{
@@ -163,7 +167,7 @@ text-align: center;
 border: none;
 width: 120px;
 height: 40px;
-margin-top: 20px;
+margin-top: 23px;
 }
 .nine{
     border-radius: 8px;
@@ -178,7 +182,7 @@ text-align: center;
 border: none;
 width: 120px;
 height: 40px;
-margin-top: 20px;
+margin-top: 10px;
 }
 
 /* section3 start */
