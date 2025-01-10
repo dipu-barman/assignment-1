@@ -58,10 +58,10 @@ text-align: left;
 border: none;
 padding: 17px 34px 17px 34px;
 }
-.bg :hover{
-    background: rgb(0, 106, 80);
 
-}
+
+
+
 /* section1 */
 .father{
     display: flex;
@@ -73,7 +73,7 @@ padding: 17px 34px 17px 34px;
 }
 .mother{
     width: 1280px;
-    height: 470px;
+    height: 490px;
     margin: 80px auto;
 }
 .deatils{
@@ -179,4 +179,57 @@ border: none;
 width: 120px;
 height: 40px;
 margin-top: 20px;
+}
+
+/* section3 start */
+.mama{
+    width: 1300px;
+    height: 240px;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+margin: 50px auto;
+
+
+}
+.bagna{
+    margin-top: 20px;
+    margin-left: 30px;
+    position: absolute;
+  
+
+}
+.famous{
+    padding: 30px 30px;
+}
+.most{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+
+}
+.nobel{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+text-align: left;
+line-height: 1px;
+}
+.genius{
+    color: rgba(14, 14, 14, 0.6);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+letter-spacing: 0%;
+text-align: left;
+line-height: 1px;
+
+
 }
