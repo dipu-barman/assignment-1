@@ -319,3 +319,109 @@ margin-top: 13px;
 .better:hover{
     background-color: cornflowerblue;
 }
+/* start last section */
+.mango{
+    width: 1100px;
+    height: 460px;
+    margin: 70px auto;
+    padding: 40px 60px;
+}
+.apple{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+}
+.guava{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+}
+.small{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+height: 110px;
+width: 250px;
+}
+.small:hover{
+    background-color: royalblue;
+}
+.big{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(198, 228, 214);
+height: 110px;
+width: 250px;
+
+}
+.big:hover{
+    background-color: red;
+}
+.goo{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+ 
+}
+.little{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 2px;
+    letter-spacing: 1px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 2px;
+    
+    background: rgb(255, 255, 255);
+    height: 40px;
+    width: 1000px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.mona{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+border-radius: 8px;
+background: rgb(0, 106, 80);
+border: none;
+padding: 10px 20px 10px 20px;
+margin-top: 40px;
+margin-left: 500px;
+text-align: center;
+}
+.mona:hover{
+    background-color: brown;
+}
