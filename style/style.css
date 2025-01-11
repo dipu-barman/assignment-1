@@ -59,7 +59,9 @@ border: none;
 padding: 17px 34px 17px 34px;
 }
 
-
+.gen:hover{
+    background-color: blue;
+}
 
 
 /* section1 */
@@ -154,9 +156,13 @@ height: 40px;
 margin-top: 10px;
 
 }
-.eight{
-    border-radius: 8px;
+.seven:hover{
+   background-color: chartreuse; 
+}
 
+
+.eight{
+   
 background: rgb(9, 161, 92);
 font-family: Fira Sans;
 font-size: 16px;
@@ -167,7 +173,12 @@ text-align: center;
 border: none;
 width: 120px;
 height: 40px;
-margin-top: 23px;
+margin-top: 25px;
+border-radius: 8px;
+
+}
+.eight:hover{
+    background-color: darkgreen;
 }
 .nine{
     border-radius: 8px;
@@ -183,6 +194,9 @@ border: none;
 width: 120px;
 height: 40px;
 margin-top: 10px;
+}
+.nine:hover{
+    background-color: indigo;
 }
 
 /* section3 start */
@@ -236,4 +250,72 @@ text-align: left;
 line-height: 1px;
 
 
+}
+/* section 3 start */
+.satelite{
+    width: 1280px;
+    height: 450px;
+    margin: 70px auto;
+}
+.good{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+.super{
+    height: 290px;
+    width: 744px;
+}
+.power{
+    height: 290px;
+    width:410px;
+}
+.somoy{
+    display: flex;
+    gap: 20px;
+}
+.news{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+}
+.best{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 15px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
+}
+.become{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+line-height: 1px;
+letter-spacing: 0%;
+text-align: left;
+}
+.better{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+border-radius: 8px;
+
+background: rgb(0, 106, 80);
+border: none;
+padding: 10px 20px 10px 20px;
+margin-top: 13px;
+}
+.better:hover{
+    background-color: cornflowerblue;
 }
